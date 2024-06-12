@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gsimblex24
+- 👋 Hi, I’m Simbarashe Simango
 - 👀 I’m interested in Software Development, Web Design and AI
 - 🌱 I’m currently learning Computer Science
 - 💞️ I’m looking to collaborate on any Projects 
